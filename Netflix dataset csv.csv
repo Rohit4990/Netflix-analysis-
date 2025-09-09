@@ -1,0 +1,101 @@
+﻿index,show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in
+1,s1,Movie,Dick Johnson Is Dead,Kirsten Johnson,United States,"September 25, 2021",2020,PG-13,90 min,Documentaries
+2,s2,TV Show,Blood & Water,null,South Africa,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas, TV Mysteries"
+3,s3,TV Show,Ganglands,Julien Leclercq,null,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure"
+4,s4,TV Show,Jailbirds New Orleans,null,null,"September 24, 2021",2021,TV-MA,1 Season,"Docuseries, Reality TV"
+5,s5,TV Show,Kota Factory,null,India,"September 24, 2021",2021,TV-MA,2 Seasons,"International TV Shows, Romantic TV Shows, TV Comedies"
+6,s6,TV Show,Midnight Mass,Mike Flanagan,null,"September 24, 2021",2021,TV-MA,1 Season,"TV Dramas, TV Horror, TV Mysteries"
+7,s7,Movie,My Little Pony: A New Generation,"Robert Cullen, José Luis Ucha",null,"September 24, 2021",2021,PG,91 min,Children & Family Movies
+8,s8,Movie,Sankofa,Haile Gerima,"United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia","September 24, 2021",1993,TV-MA,125 min,"Dramas, Independent Movies, International Movies"
+9,s9,TV Show,The Great British Baking Show,Andy Devonshire,United Kingdom,"September 24, 2021",2021,TV-14,9 Seasons,"British TV Shows, Reality TV"
+10,s10,Movie,The Starling,Theodore Melfi,United States,"September 24, 2021",2021,PG-13,104 min,"Comedies, Dramas"
+11,s11,TV Show,"Vendetta: Truth, Lies and The Mafia",null,null,"September 24, 2021",2021,TV-MA,1 Season,"Crime TV Shows, Docuseries, International TV Shows"
+12,s12,TV Show,Bangkok Breaking,Kongkiat Komesiri,null,"September 23, 2021",2021,TV-MA,1 Season,"Crime TV Shows, International TV Shows, TV Action & Adventure"
+13,s13,Movie,Je Suis Karl,Christian Schwochow,"Germany, Czech Republic","September 23, 2021",2021,TV-MA,127 min,"Dramas, International Movies"
+14,s14,Movie,Confessions of an Invisible Girl,Bruno Garotti,null,"September 22, 2021",2021,TV-PG,91 min,"Children & Family Movies, Comedies"
+15,s15,TV Show,Crime Stories: India Detectives,null,null,"September 22, 2021",2021,TV-MA,1 Season,"British TV Shows, Crime TV Shows, Docuseries"
+16,s16,TV Show,Dear White People,null,United States,"September 22, 2021",2021,TV-MA,4 Seasons,"TV Comedies, TV Dramas"
+17,s17,Movie,Europe's Most Dangerous Man: Otto Skorzeny in Spain,"Pedro de Echave García, Pablo Azorín Williams",null,"September 22, 2021",2020,TV-MA,67 min,"Documentaries, International Movies"
+18,s18,TV Show,Falsa identidad,null,Mexico,"September 22, 2021",2020,TV-MA,2 Seasons,"Crime TV Shows, Spanish-Language TV Shows, TV Dramas"
+19,s19,Movie,Intrusion,Adam Salky,null,"September 22, 2021",2021,TV-14,94 min,Thrillers
+20,s20,TV Show,Jaguar,null,null,"September 22, 2021",2021,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Action & Adventure"
+21,s21,TV Show,Monsters Inside: The 24 Faces of Billy Milligan,Olivier Megaton,null,"September 22, 2021",2021,TV-14,1 Season,"Crime TV Shows, Docuseries, International TV Shows"
+22,s22,TV Show,Resurrection: Ertugrul,null,Turkey,"September 22, 2021",2018,TV-14,5 Seasons,"International TV Shows, TV Action & Adventure, TV Dramas"
+23,s23,Movie,Avvai Shanmughi,K.S. Ravikumar,null,"September 21, 2021",1996,TV-PG,161 min,"Comedies, International Movies"
+24,s24,Movie,Go! Go! Cory Carson: Chrissy Takes the Wheel,"Alex Woo, Stanley Moore",null,"September 21, 2021",2021,TV-Y,61 min,Children & Family Movies
+25,s25,Movie,Jeans,S. Shankar,India,"September 21, 2021",1998,TV-14,166 min,"Comedies, International Movies, Romantic Movies"
+26,s26,TV Show,Love on the Spectrum,null,Australia,"September 21, 2021",2021,TV-14,2 Seasons,"Docuseries, International TV Shows, Reality TV"
+27,s27,Movie,Minsara Kanavu,Rajiv Menon,null,"September 21, 2021",1997,TV-PG,147 min,"Comedies, International Movies, Music & Musicals"
+28,s28,Movie,Grown Ups,Dennis Dugan,United States,"September 20, 2021",2010,PG-13,103 min,Comedies
+29,s29,Movie,Dark Skies,Scott Stewart,United States,"September 19, 2021",2013,PG-13,97 min,"Horror Movies, Sci-Fi & Fantasy"
+30,s30,Movie,Paranoia,Robert Luketic,"United States, India, France","September 19, 2021",2013,PG-13,106 min,Thrillers
+31,s31,Movie,Ankahi Kahaniya,"Ashwiny Iyer Tiwari, Abhishek Chaubey, Saket Chaudhary",null,"September 17, 2021",2021,TV-14,111 min,"Dramas, Independent Movies, International Movies"
+32,s32,TV Show,Chicago Party Aunt,null,null,"September 17, 2021",2021,TV-MA,1 Season,TV Comedies
+33,s33,TV Show,Sex Education,null,United Kingdom,"September 17, 2021",2020,TV-MA,3 Seasons,"British TV Shows, International TV Shows, TV Comedies"
+34,s34,TV Show,Squid Game,null,null,"September 17, 2021",2021,TV-MA,1 Season,"International TV Shows, TV Dramas, TV Thrillers"
+35,s35,TV Show,Tayo and Little Wizards,null,null,"September 17, 2021",2020,TV-Y7,1 Season,Kids' TV
+36,s36,Movie,The Father Who Moves Mountains,Daniel Sandu,null,"September 17, 2021",2021,TV-MA,110 min,"Dramas, International Movies, Thrillers"
+37,s37,Movie,The Stronghold,Cédric Jimenez,null,"September 17, 2021",2021,TV-MA,105 min,"Action & Adventure, Dramas, International Movies"
+38,s38,TV Show,Angry Birds,null,Finland,"September 16, 2021",2018,TV-Y7,1 Season,"Kids' TV, TV Comedies"
+39,s39,Movie,Birth of the Dragon,George Nolfi,"China, Canada, United States","September 16, 2021",2017,PG-13,96 min,"Action & Adventure, Dramas"
+40,s40,TV Show,Chhota Bheem,null,India,"September 16, 2021",2021,TV-Y7,3 Seasons,Kids' TV
+41,s41,TV Show,He-Man and the Masters of the Universe,null,United States,"September 16, 2021",2021,TV-Y7,1 Season,"Kids' TV, TV Sci-Fi & Fantasy"
+42,s42,Movie,Jaws,Steven Spielberg,United States,"September 16, 2021",1975,PG,124 min,"Action & Adventure, Classic Movies, Dramas"
+43,s43,Movie,Jaws 2,Jeannot Szwarc,United States,"September 16, 2021",1978,PG,116 min,"Dramas, Horror Movies, Thrillers"
+44,s44,Movie,Jaws 3,Joe Alves,United States,"September 16, 2021",1983,PG,98 min,"Action & Adventure, Horror Movies, Thrillers"
+45,s45,Movie,Jaws: The Revenge,Joseph Sargent,United States,"September 16, 2021",1987,PG-13,91 min,"Action & Adventure, Horror Movies, Thrillers"
+46,s46,Movie,My Heroes Were Cowboys,Tyler Greco,null,"September 16, 2021",2021,PG,23 min,Documentaries
+47,s47,Movie,Safe House,Daniel Espinosa,"South Africa, United States, Japan","September 16, 2021",2012,R,115 min,Action & Adventure
+48,s48,TV Show,The Smart Money Woman,Bunmi Ajakaiye,null,"September 16, 2021",2020,TV-MA,1 Season,"International TV Shows, Romantic TV Shows, TV Comedies"
+49,s49,Movie,Training Day,Antoine Fuqua,United States,"September 16, 2021",2001,R,122 min,"Dramas, Thrillers"
+50,s50,TV Show,Castle and Castle,null,Nigeria,"September 15, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas"
+51,s51,TV Show,Dharmakshetra,null,India,"September 15, 2021",2014,TV-PG,1 Season,"International TV Shows, TV Dramas, TV Sci-Fi & Fantasy"
+52,s52,Movie,InuYasha the Movie 2: The Castle Beyond the Looking Glass,Toshiya Shinohara,Japan,"September 15, 2021",2002,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+53,s53,Movie,InuYasha the Movie 3: Swords of an Honorable Ruler,Toshiya Shinohara,Japan,"September 15, 2021",2003,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+54,s54,Movie,InuYasha the Movie 4: Fire on the Mystic Island,Toshiya Shinohara,Japan,"September 15, 2021",2004,TV-PG,88 min,"Action & Adventure, Anime Features, International Movies"
+55,s55,Movie,InuYasha the Movie: Affections Touching Across Time,Toshiya Shinohara,Japan,"September 15, 2021",2001,TV-PG,100 min,"Action & Adventure, Anime Features, International Movies"
+56,s56,TV Show,Nailed It,null,United States,"September 15, 2021",2021,TV-PG,6 Seasons,Reality TV
+57,s57,Movie,Naruto Shippuden the Movie: Blood Prison,Masahiko Murata,Japan,"September 15, 2021",2011,TV-14,102 min,"Action & Adventure, Anime Features, International Movies"
+58,s58,Movie,Naruto Shippûden the Movie: Bonds,Hajime Kamegaki,Japan,"September 15, 2021",2008,TV-PG,93 min,"Action & Adventure, Anime Features, International Movies"
+59,s59,Movie,Naruto Shippûden the Movie: The Will of Fire,Masahiko Murata,Japan,"September 15, 2021",2009,TV-PG,96 min,"Action & Adventure, Anime Features, International Movies"
+60,s60,Movie,Naruto Shippuden: The Movie,Hajime Kamegaki,Japan,"September 15, 2021",2007,TV-PG,95 min,"Action & Adventure, Anime Features, International Movies"
+61,s61,Movie,Naruto Shippuden: The Movie: The Lost Tower,Masahiko Murata,Japan,"September 15, 2021",2010,TV-14,85 min,"Action & Adventure, Anime Features, International Movies"
+62,s62,Movie,Naruto the Movie 2: Legend of the Stone of Gelel,Hirotsugu Kawasaki,Japan,"September 15, 2021",2005,TV-PG,97 min,"Action & Adventure, Anime Features, International Movies"
+63,s63,Movie,Naruto the Movie 3: Guardians of the Crescent Moon Kingdom,Toshiyuki Tsuru,Japan,"September 15, 2021",2006,TV-PG,95 min,"Action & Adventure, Anime Features, International Movies"
+64,s64,Movie,Naruto the Movie: Ninja Clash in the Land of Snow,Tensai Okamura,Japan,"September 15, 2021",2004,TV-PG,83 min,"Action & Adventure, Anime Features, International Movies"
+65,s65,Movie,Nightbooks,David Yarovesky,null,"September 15, 2021",2021,TV-PG,103 min,Children & Family Movies
+66,s66,TV Show,Numberblocks,null,United Kingdom,"September 15, 2021",2021,TV-Y,6 Seasons,Kids' TV
+67,s67,TV Show,Raja Rasoi Aur Anya Kahaniyan,null,India,"September 15, 2021",2014,TV-G,1 Season,"Docuseries, International TV Shows"
+68,s68,TV Show,Saved by the Bell,null,United States,"September 15, 2021",1994,TV-PG,9 Seasons,"Kids' TV, TV Comedies"
+69,s69,Movie,Schumacher,"Hanns-Bruno Kammertöns, Vanessa Nöcker, Michael Wech",null,"September 15, 2021",2021,TV-14,113 min,"Documentaries, International Movies, Sports Movies"
+70,s70,TV Show,Stories by Rabindranath Tagore,null,India,"September 15, 2021",2015,TV-PG,1 Season,"International TV Shows, TV Dramas"
+71,s71,TV Show,Too Hot To Handle: Latino,null,null,"September 15, 2021",2021,TV-MA,1 Season,"International TV Shows, Reality TV, Romantic TV Shows"
+72,s72,Movie,A StoryBots Space Adventure,David A. Vargas,null,"September 14, 2021",2021,TV-Y,13 min,Children & Family Movies
+73,s73,TV Show,Jack Whitehall: Travels with My Father,null,United Kingdom,"September 14, 2021",2021,TV-MA,5 Seasons,"British TV Shows, Docuseries, International TV Shows"
+74,s74,Movie,King of Boys,Kemi Adetiba,Nigeria,"September 14, 2021",2018,TV-MA,182 min,"Dramas, International Movies"
+75,s75,TV Show,The World's Most Amazing Vacation Rentals,null,null,"September 14, 2021",2021,TV-PG,2 Seasons,Reality TV
+76,s76,Movie,You vs. Wild: Out Cold,Ben Simms,null,"September 14, 2021",2021,TV-G,106 min,Children & Family Movies
+77,s77,TV Show,Yowamushi Pedal,null,Japan,"September 14, 2021",2013,TV-14,1 Season,"Anime Series, International TV Shows"
+78,s78,Movie,Little Singham - Black Shadow,Prakash Satam,null,"September 11, 2021",2021,TV-Y7,48 min,"Children & Family Movies, Comedies"
+79,s79,Movie,Tughlaq Durbar,Delhiprasad Deenadayalan,null,"September 11, 2021",2020,TV-14,145 min,"Comedies, Dramas, International Movies"
+80,s80,Movie,Tughlaq Durbar (Telugu),Delhiprasad Deenadayalan,null,"September 11, 2021",2021,TV-14,145 min,"Comedies, Dramas, International Movies"
+81,s81,Movie,Firedrake the Silver Dragon,Tomer Eshed,null,"September 10, 2021",2021,TV-Y7,93 min,Children & Family Movies
+82,s82,Movie,Kate,Cedric Nicolas-Troyan,United States,"September 10, 2021",2021,R,106 min,Action & Adventure
+83,s83,TV Show,Lucifer,null,United States,"September 10, 2021",2021,TV-14,6 Seasons,"Crime TV Shows, TV Comedies, TV Dramas"
+84,s84,TV Show,Metal Shop Masters,null,null,"September 10, 2021",2021,TV-MA,1 Season,Reality TV
+85,s85,Movie,Omo Ghetto: the Saga,"JJC Skillz, Funke Akindele",Nigeria,"September 10, 2021",2020,TV-MA,147 min,"Action & Adventure, Comedies, Dramas"
+86,s86,TV Show,Pokémon Master Journeys: The Series,null,null,"September 10, 2021",2021,TV-Y7,1 Season,"Anime Series, Kids' TV"
+87,s87,Movie,Prey,Thomas Sieben,null,"September 10, 2021",2021,TV-MA,87 min,"International Movies, Thrillers"
+88,s88,TV Show,Titipo Titipo,null,null,"September 10, 2021",2019,TV-Y,2 Seasons,"Kids' TV, Korean TV Shows"
+89,s89,Movie,Blood Brothers: Malcolm X & Muhammad Ali,Marcus Clarke,null,"September 9, 2021",2021,PG-13,96 min,"Documentaries, Sports Movies"
+90,s90,TV Show,Mighty Raju,null,null,"September 9, 2021",2017,TV-Y7,4 Seasons,Kids' TV
+91,s91,Movie,Paradise Hills,Alice Waddington,"Spain, United States","September 9, 2021",2019,TV-MA,95 min,"Sci-Fi & Fantasy, Thrillers"
+92,s92,Movie,The Women and the Murderer,"Mona Achache, Patricia Tourancheau",France,"September 9, 2021",2021,TV-14,92 min,"Documentaries, International Movies"
+93,s93,TV Show,Into the Night,null,Belgium,"September 8, 2021",2021,TV-MA,2 Seasons,"International TV Shows, TV Dramas, TV Mysteries"
+94,s94,Movie,JJ+E,Alexis Almström,null,"September 8, 2021",2021,TV-MA,91 min,"Dramas, International Movies, Romantic Movies"
+95,s95,Movie,Show Dogs,Raja Gosnell,"United Kingdom, United States","September 8, 2021",2018,PG,90 min,"Children & Family Movies, Comedies"
+96,s96,TV Show,The Circle,null,"United States, United Kingdom","September 8, 2021",2021,TV-MA,3 Seasons,Reality TV
+97,s97,Movie,If I Leave Here Tomorrow: A Film About Lynyrd Skynyrd,Stephen Kijak,United States,"September 7, 2021",2018,TV-MA,97 min,"Documentaries, Music & Musicals"
+98,s98,TV Show,Kid Cosmic,null,United States,"September 7, 2021",2021,TV-Y7,2 Seasons,"Kids' TV, TV Comedies, TV Sci-Fi & Fantasy"
+99,s99,TV Show,Octonauts: Above & Beyond,null,United Kingdom,"September 7, 2021",2021,TV-Y,1 Season,"British TV Shows, Kids' TV"
+100,s100,TV Show,On the Verge,null,"France, United States","September 7, 2021",2021,TV-MA,1 Season,"TV Comedies, TV Dramas"
